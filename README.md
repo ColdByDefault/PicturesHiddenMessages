@@ -29,7 +29,13 @@
 
 5. **Run the application**:
    ```bash
-   python run.py
+   python hide_password.py
    ```
+
+   5. **Run the application** again to decode:
+   ```bash
+   python extract_password.py
+   ```
+   
 
 
